@@ -1,0 +1,4 @@
+﻿  02lesson.cpp
+e:\cpplearning\02_using_variables\02lesson\02lesson\02lesson.cpp(23): warning C4305: “=”: 从“double”到“float”截断
+  02lesson.vcxproj -> E:\cppLearning\02_using_variables\02lesson\Debug\02lesson.exe
+  02lesson.vcxproj -> E:\cppLearning\02_using_variables\02lesson\Debug\02lesson.pdb (Full PDB)

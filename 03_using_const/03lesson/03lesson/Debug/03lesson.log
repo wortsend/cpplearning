@@ -1,0 +1,4 @@
+﻿  03lesson.cpp
+e:\cpplearning\03_using_const\03lesson\03lesson\03lesson.cpp(23): warning C4305: “初始化”: 从“double”到“float”截断
+  03lesson.vcxproj -> E:\cppLearning\03_using_const\03lesson\Debug\03lesson.exe
+  03lesson.vcxproj -> E:\cppLearning\03_using_const\03lesson\Debug\03lesson.pdb (Full PDB)
